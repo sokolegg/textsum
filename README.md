@@ -1,8 +1,8 @@
-# text_main
+# textsum
 Compress text to the main ideas
 
 # Usage 
 ```sh
-python text_main news.txt
+python textsum news.txt
 cat compressed.txt
 ```
